@@ -1,0 +1,12 @@
+echo "# homework" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/klee67510/homework.git
+git push -u origin main
+git nb_work_5_30 (1).py
+git commit -m "Initial commit"
+git remote add github.com/klee67510/homework/new/main
+git push origin master
+
